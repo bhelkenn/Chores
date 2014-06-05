@@ -1,0 +1,1 @@
+This project was created a couple of years ago to create a chores window to launch, when combined with Windows Tash Scheduler, at user logon. This would allow reminders pulled from associated text files to display to remind you of what daily, weekly, and monthly chores still needed doing around the house.
