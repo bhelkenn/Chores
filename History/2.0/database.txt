@@ -1,0 +1,8 @@
+Dishes;Daily;Likely not daily, if anything will be about 2x a week;No;
+Trash check;Daily;check all the trash bags in addition to the main trash. Also check compost;No;
+Recycling check;Daily;Don't take out the bag unless it looks gross after emptying into the blue bin;No;
+Change sheets;Weekly;Don't forget to replace pillowcases and Febreeze;No;
+Bathroom sink;Weekly;Use Clorox wipes;No;
+Microwave;Weekly;Also wash platter;No;
+Sweep and Swiffer;Monthly;Best practice would be to sweep, then swiffer, then sweep one more time;No;
+Toilet and bathtub;Monthly;remember to wipe down the edges of the bathtub, not just Comet the bottom;No;
